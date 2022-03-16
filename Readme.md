@@ -11,6 +11,6 @@
 ## Useful links
 1. pandas database: https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html?highlight=pd%20to_datetime
 2. sklearn library: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#examples-using-sklearn-linear-model-linearregression  
-
+3. matplotlib library: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figure.html
 
 Great work 
