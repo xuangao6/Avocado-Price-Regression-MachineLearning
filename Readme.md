@@ -1,6 +1,7 @@
 # This is the repository for avocado price regression
 ## General Comments
-**you can write your code under kunlei_avocado_price.ipynp and I write my code under xuan_avocado_price.ipynp**    
+**1. you can write your code under kunlei_avocado_price.ipynp and I write my code under xuan_avocado_price.ipynp**    
+2. figures are stored in onedrive shared folder  
 ## Steps
 1. Problem statement
 2. Data pre-processing
