@@ -25,6 +25,8 @@ For exploratory data analysis, open `Exploratory Data Analysis.ipynb` located at
 
 For general results, open `results.ipynb` located at `.\Avocado-Price\results.ipynb`.
 
+(for our daily unsorted codes, please find them at `.\Avocado-Price\daily update codes` folder)
+
 ### **Step 3**
 Run `Exploratory Data Analysis.ipynb` and `results.ipynb`, then you will get the same results as shown in our report.
 
